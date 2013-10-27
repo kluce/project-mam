@@ -1,0 +1,142 @@
+a.navbar-brand {
+
+}
+
+img.img-thumbnail {
+	border: none;
+}
+
+ul.nav.navbar-nav {
+	float: center;
+	font-size: 15px;
+	text-align: 15px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	font-family: georgia;
+	font-size: 15px;
+	color: red;
+}
+
+
+ul.nav.navbar-nav > li > a {
+	color: gray;
+	font-size: 17px;
+}
+
+a.navbar-nav {
+	color: red;
+}
+
+.navbar-text {
+	color: pink;
+}
+
+.glyphicon {
+	color:#FF9494;
+}
+
+/*.nav > li >a:hover, .nav > li >a:focus {
+	background-color: pink;
+}*/
+.jumbotron {
+	background-position: 115%;	
+}
+
+
+.jumbotron h1 {
+	font-family: georgia;
+	color:silver;
+}
+
+.jumbotron p {
+	color:silver;
+}
+
+h4 {
+    overflow: hidden;
+    text-align: center;
+    color: gray;
+    font-family: georgia;
+    text-transform: uppercase;
+
+}
+h4:before,
+h4:after {
+    background-color: gray;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 29%;
+}
+h4:before {
+    right: 0.5em;
+    margin-left: -50%;
+}
+h4:after {
+    left: 0.5em;
+    margin-right: -50%;
+}
+
+.picture {
+	border: 6px solid;
+	border-color: #eeeeee;
+
+}
+
+
+.box {
+	border-color: gray;
+}
+
+#footer > p:first-child {
+    float: left;
+    text-align: left;
+    width: 33.3%; 
+}
+
+#footer > p:nth-child(2) {
+    float: left;
+    text-align: center;
+    width: 33.4%; 
+}
+
+#footer > p:last-child {
+    float: right;
+    text-align: right;
+    width: 33.3%; 
+}
+
+#home #footer-container {
+	margin-top: 72px;
+}
+
+#footer-container #bottom {
+background: #eeeeee;
+height: 36px;
+padding: 40px 0;
+}
+
+#footer-container #footer {
+	padding: 48px;
+	padding-bottom: 80px;
+	border-top: 1px solid silver;
+}
+#bottom .social {
+	float: left;
+}
+
+#bottom .copyright {
+	text-align: right;
+	float: right;
+}
+
+p {
+	font-family: georgia;
+	text-transform: uppercase;
+	color: gray;
+}
+
+
+}
