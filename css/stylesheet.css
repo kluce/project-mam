@@ -23,9 +23,9 @@ ul.nav.navbar-nav > li > a {
 	font-size: 17px;
 }
 
-a.navbar-nav {
+/*a.navbar-nav {
 	color: red;
-}
+}*/
 
 .navbar-text {
 	color: pink;
@@ -45,11 +45,11 @@ a.navbar-nav {
 
 .jumbotron h1 {
 	font-family: georgia;
-	color:silver;
+	color:gray;
 }
 
 .jumbotron p {
-	color:silver;
+	color:gray;
 }
 
 h4 {
