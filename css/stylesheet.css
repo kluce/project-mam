@@ -39,7 +39,7 @@ ul.nav.navbar-nav > li > a {
 	background-color: pink;
 }*/
 .jumbotron {
-	background-position: 115%;	
+	background-position: 50%;	
 }
 
 
@@ -58,8 +58,8 @@ h4 {
     color: gray;
     font-family: georgia;
     text-transform: uppercase;
-
 }
+
 h4:before,
 h4:after {
     background-color: gray;
