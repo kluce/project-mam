@@ -38,6 +38,10 @@ ul.nav.navbar-nav > li > a {
 /*.nav > li >a:hover, .nav > li >a:focus {
 	background-color: pink;
 }*/
+
+.widewrapper {
+	width: 100%;
+}
 .jumbotron {
 	background-position: 50%;	
 }
