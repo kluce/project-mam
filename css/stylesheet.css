@@ -28,7 +28,11 @@ ul.nav.navbar-nav > li > a {
 	font-size: 17px;
 }
 
-
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #49E9BD;
+  background-color: transparent;
+}
 /*a.navbar-nav {
 	color: red;
 }*/
