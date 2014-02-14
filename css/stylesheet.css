@@ -10,7 +10,7 @@ ul.nav.navbar-nav {
 	float: center;
 	font-size: 15px;
 	text-align: 15px;
-	padding-top: 25px;
+	padding-top: 55px;
 	padding-bottom: 25px;
 	font-family: georgia;
 	font-size: 15px;
@@ -22,6 +22,7 @@ ul.nav.navbar-nav > li > a {
 	color: gray;
 	font-size: 17px;
 }
+
 
 /*a.navbar-nav {
 	color: red;
@@ -42,6 +43,8 @@ ul.nav.navbar-nav > li > a {
 .img-thumbnail {
 	width: 75%;
 }
+
+
 
 .widewrapper {
 	width: 100%;

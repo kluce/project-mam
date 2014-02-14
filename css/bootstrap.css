@@ -4430,7 +4430,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-default .navbar-collapse,
 .navbar-default .navbar-form {
-  border-color: #e6e6e6;
+  border-color: white;
 }
 
 .navbar-default .navbar-nav > .dropdown > a:hover .caret,
