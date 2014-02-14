@@ -39,6 +39,10 @@ ul.nav.navbar-nav > li > a {
 	background-color: pink;
 }*/
 
+.img-thumbnail {
+	width: 75%;
+}
+
 .widewrapper {
 	width: 100%;
 }
