@@ -79,7 +79,7 @@ h4 {
     overflow: hidden;
     text-align: center;
     color: gray;
-    font-family: georgia;
+    font-family: 'Lato', sans-serif;
     text-transform: uppercase;
 }
 
@@ -99,7 +99,7 @@ h4:before {
 }
 h4:after {
     left: 0.5em;
-    margin-right: 50%;
+    margin-right: -50%;
 }
 
 .picture {
