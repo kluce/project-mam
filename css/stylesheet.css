@@ -12,7 +12,7 @@ ul.nav.navbar-nav {
 	text-align: 15px;
 	padding-top: 55px;
 	padding-bottom: 25px;
-	font-family: Lato; 
+	font-family: georgia;
 	font-size: 15px;
 	color: red;
 }
@@ -88,22 +88,11 @@ h4:after {
     background-color: gray;
     content: "";
     display: inline-block;
-    width: 100%;
     height: 2px;
     position: relative;
     vertical-align: middle;
-    top: 50%;
-    
-
-/*    content: "";
-display: block;
-border-top: 2px solid #444;
-width: 100%;
-height: 2px;
-position: absolute;
-top: 50%;
-z-index: 1;
-}*/
+    width: 29%;
+}
 h4:before {
     right: 0.5em;
     margin-left: -50%;
@@ -147,7 +136,7 @@ h4:after {
 }
 
 #footer-container #bottom {
-background: #eeeeee;
+background: none;
 height: 36px;
 padding: 40px 0;
 }
@@ -161,6 +150,10 @@ padding: 40px 0;
 	float: left;
 }
 
+a {
+	color: black;
+	font-family: 'Lato', sans-serif;
+}
 #bottom .copyright {
 	text-align: right;
 	float: right;
