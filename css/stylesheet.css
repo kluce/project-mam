@@ -154,13 +154,14 @@ a {
 	color: black;
 	font-family: 'Lato', sans-serif;
 }
+
 #bottom .copyright {
 	text-align: right;
 	float: right;
 }
 
 p {
-	font-family: georgia;
+	font-family: 'Lato', sans-serif;
 	text-transform: uppercase;
 	color: gray;
 }
