@@ -99,7 +99,7 @@ h4:before {
 }
 h4:after {
     left: 0.5em;
-    margin-right: -50%;
+    margin-right: 50%;
 }
 
 .picture {
