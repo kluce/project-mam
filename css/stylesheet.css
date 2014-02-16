@@ -12,7 +12,7 @@ ul.nav.navbar-nav {
 	text-align: 15px;
 	padding-top: 55px;
 	padding-bottom: 25px;
-	font-family: L'Lato', sans-serif;
+	font-family: Lato; 
 	font-size: 15px;
 	color: red;
 }
@@ -26,13 +26,6 @@ ul.nav.navbar-nav {
 ul.nav.navbar-nav > li > a {
 	color: #000000;
 	font-size: 17px;
-}
-
-.navbar-default .navbar-nav > .active > a,
-.navbar-default .navbar-nav > .active > a:hover,
-.navbar-default .navbar-nav > .active > a:focus {
-  color: #555555;
-  background-color: none;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
@@ -98,7 +91,7 @@ h4:after {
     height: 2px;
     position: relative;
     vertical-align: middle;
-    width: 29%;
+    width: 95%;
 }
 h4:before {
     right: 0.5em;
